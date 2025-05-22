@@ -24,3 +24,5 @@ A suite of tools exploring the possibilities of generative visual effects using 
   Edit or restore parts of a video using frame-consistent inpainting.
 
 ---
+
+   👉 [Watch Demo](videos/video_inpainting.mp4)
