@@ -1,7 +1,7 @@
 # GENART
 **Generative VFX Trials**
 
-A suite of tools exploring the possibilities of generative visual effects using state-of-the-art AI models.
+Custom Comfyui Workflows Trials 
 
 ## Features
 
@@ -22,7 +22,3 @@ A suite of tools exploring the possibilities of generative visual effects using 
 
 - [x] **Video Inpainting**  
   Edit or restore parts of a video using frame-consistent inpainting.
-
----
-
-   👉 [Watch Demo](videos/video_inpainting.mp4)
